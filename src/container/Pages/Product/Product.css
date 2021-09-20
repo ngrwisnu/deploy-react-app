@@ -1,0 +1,41 @@
+* {
+    overflow-x: hidden;
+}
+
+/* .header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+} */
+
+
+
+.header > p,
+.counter {
+    padding: 0px 24px;
+}
+
+.counter input {
+    text-align: center;
+    font-size: 24px;
+    padding: 4px 0px;
+    margin: 0px 12px;
+}
+
+.minus,
+.plus {
+    font-size: 24px;
+    background-color: #34B87E;
+    color: white;
+    border: none;
+    width: 32px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: transparent;
+    color: #34B87E;
+    border: solid 1px #34B87E;
+}

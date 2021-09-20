@@ -1,0 +1,15 @@
+.card_wrap {
+    width: 20%;
+    border-radius: 10px;
+    margin: 24px 24px;
+    padding: 12px 24px;
+    box-shadow: 0 4px 8px 0 rgba(170, 170, 170, 0.2);
+    display: inline-block;
+}
+
+.title {
+    font-style: italic;
+    line-height: 140%;
+    letter-spacing: 0.25px;
+    color: rgb(114, 114, 114);
+}

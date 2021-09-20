@@ -1,0 +1,7 @@
+.text {
+    color: rgb(5, 8, 175);
+    padding: 20px 32px;
+    width: max-content;
+    box-shadow: 0 7px 12px 0 rgba(156, 156, 156, 0.2);
+    border-radius: 12px;
+}
