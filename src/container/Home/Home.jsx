@@ -1,7 +1,7 @@
 import React, {Component, Fragment} from 'react'
 import Product from '../Pages/Product/Product'
 import './Home.css'
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
+import { HashRouter as Router, Route, Link } from 'react-router-dom'
 import QuotePage from '../Pages/QuotePage/QuotePage'
 import Hooks from '../Pages/Hooks/Hooks'
 
